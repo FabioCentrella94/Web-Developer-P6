@@ -2,6 +2,12 @@
 // MongoDb Name: Fabio
 // MongoDb Connection: mongodb+srv://Fabio:<password>@cluster0-iabbj.mongodb.net/<dbname>?retryWrites=true&w=majority
 
+// MongoDb Name: DatabaseAdmin
+// Password: 12345
+
+// MongoDb Name: TablesAdmin
+// Password: 12345
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
